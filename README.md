@@ -16,7 +16,7 @@ world of tools neovim has.
 ## Plugins installed (Used Packer.nvim)
 
 * Fuzzy Finder: [Telescope](https://github.com/nvim-telescope/telescope.nvim)
-* Color Theme: [rose-pine](https://github.com/rose-pine/neovim
+* Color Theme: [rose-pine](https://github.com/rose-pine/neovim)
 * Packer: [Packer](https://github.com/wbthomason/packer.nvim)
 * Tree Explorer: [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 * Branch Manager: [Undotree](https://github.com/mbbill/undotree)
